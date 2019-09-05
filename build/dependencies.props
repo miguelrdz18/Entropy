@@ -52,7 +52,8 @@
     <MicrosoftExtensionsOptionsConfigurationExtensionsPackageVersion>2.2.0-preview1-34316</MicrosoftExtensionsOptionsConfigurationExtensionsPackageVersion>
     <MicrosoftExtensionsOptionsPackageVersion>2.2.0-preview1-34316</MicrosoftExtensionsOptionsPackageVersion>
     <MicrosoftExtensionsSecretManagerToosPackageVersion>2.1.0-preview1-27602</MicrosoftExtensionsSecretManagerToosPackageVersion>
-    <MicrosoftNETCoreApp22PackageVersion>2.2.0-preview1-26525-04</MicrosoftNETCoreApp22PackageVersion>
+    <!--<MicrosoftNETCoreApp22PackageVersion>2.2.0-preview1-26525-04</MicrosoftNETCoreApp22PackageVersion>-->
+    <MicrosoftNETCoreApp22PackageVersion>2.2</MicrosoftNETCoreApp22PackageVersion>
     <MicrosoftNETTestSdkPackageVersion>15.6.1</MicrosoftNETTestSdkPackageVersion>
     <MicrosoftOwinPackageVersion>3.0.1</MicrosoftOwinPackageVersion>
     <NowinPackageVersion>0.11.0</NowinPackageVersion>
